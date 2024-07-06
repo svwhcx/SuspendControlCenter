@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">悬浮开启状态栏</string>
+    <string name="enableStatusBarBtn">检查并申请权限</string>
+    <string name="enableStatusBarBt">开启悬浮窗</string>
+</resources>

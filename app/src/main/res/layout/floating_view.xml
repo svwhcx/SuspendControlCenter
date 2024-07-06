@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:gravity="center"
+    android:background="@drawable/float_cycle_bg"
+    android:layout_height="300dp">
+
+    <Button
+        android:id="@+id/openStatusBarBtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/float_btn_bg"
+       />
+
+
+</LinearLayout>
